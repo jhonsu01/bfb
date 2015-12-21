@@ -1,4 +1,4 @@
 Este Es mi Repositorio
 ===
 
-Descargarme y tendras un jhonsu01
+Descargar y tendrás un jhonsu01
